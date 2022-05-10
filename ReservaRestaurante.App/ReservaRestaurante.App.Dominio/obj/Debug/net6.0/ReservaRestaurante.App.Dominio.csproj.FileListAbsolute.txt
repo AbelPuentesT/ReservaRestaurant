@@ -1,0 +1,12 @@
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Dominio\obj\Debug\net6.0\ReservaRestaurante.App.Dominio.csproj.AssemblyReference.cache
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Dominio\obj\Debug\net6.0\ReservaRestaurante.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Dominio\obj\Debug\net6.0\ReservaRestaurante.App.Dominio.AssemblyInfoInputs.cache
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Dominio\obj\Debug\net6.0\ReservaRestaurante.App.Dominio.AssemblyInfo.cs
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Dominio\obj\Debug\net6.0\ReservaRestaurante.App.Dominio.csproj.CoreCompileInputs.cache
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Dominio\bin\Debug\net6.0\ReservaRestaurante.App.Dominio.deps.json
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Dominio\bin\Debug\net6.0\ReservaRestaurante.App.Dominio.dll
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Dominio\bin\Debug\net6.0\ReservaRestaurante.App.Dominio.pdb
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Dominio\obj\Debug\net6.0\ReservaRestaurante.App.Dominio.dll
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Dominio\obj\Debug\net6.0\refint\ReservaRestaurante.App.Dominio.dll
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Dominio\obj\Debug\net6.0\ReservaRestaurante.App.Dominio.pdb
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Dominio\obj\Debug\net6.0\ref\ReservaRestaurante.App.Dominio.dll

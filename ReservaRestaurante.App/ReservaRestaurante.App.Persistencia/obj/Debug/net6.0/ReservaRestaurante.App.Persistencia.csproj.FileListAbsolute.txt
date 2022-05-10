@@ -1,0 +1,17 @@
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Persistencia\obj\Debug\net6.0\ReservaRestaurante.App.Persistencia.csproj.AssemblyReference.cache
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Persistencia\obj\Debug\net6.0\ReservaRestaurante.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Persistencia\obj\Debug\net6.0\ReservaRestaurante.App.Persistencia.AssemblyInfoInputs.cache
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Persistencia\obj\Debug\net6.0\ReservaRestaurante.App.Persistencia.AssemblyInfo.cs
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Persistencia\obj\Debug\net6.0\ReservaRestaurante.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Persistencia\bin\Debug\net6.0\ReservaRestaurante.App.Persistencia.deps.json
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Persistencia\bin\Debug\net6.0\ReservaRestaurante.App.Persistencia.runtimeconfig.json
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Persistencia\bin\Debug\net6.0\ReservaRestaurante.App.Persistencia.dll
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Persistencia\bin\Debug\net6.0\ReservaRestaurante.App.Persistencia.pdb
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Persistencia\bin\Debug\net6.0\ReservaRestaurante.App.Dominio.dll
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Persistencia\bin\Debug\net6.0\ReservaRestaurante.App.Dominio.pdb
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Persistencia\obj\Debug\net6.0\ReservaRestaurante.App.Persistencia.csproj.CopyComplete
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Persistencia\obj\Debug\net6.0\ReservaRestaurante.App.Persistencia.dll
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Persistencia\obj\Debug\net6.0\refint\ReservaRestaurante.App.Persistencia.dll
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Persistencia\obj\Debug\net6.0\ReservaRestaurante.App.Persistencia.pdb
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Persistencia\obj\Debug\net6.0\ReservaRestaurante.App.Persistencia.genruntimeconfig.cache
+D:\CursoCsharp\06ASP.Net\02.ASP.Net_TIC\ReservaRestaurante.App\ReservaRestaurante.App.Persistencia\obj\Debug\net6.0\ref\ReservaRestaurante.App.Persistencia.dll
