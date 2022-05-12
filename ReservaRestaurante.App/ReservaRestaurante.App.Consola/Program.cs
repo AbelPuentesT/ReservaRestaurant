@@ -149,10 +149,7 @@ while(cont)
             break;
     }
 }
-/* Reserva reserva = new Reserva()
-{
-    cliente=cliente1,
-}; */
+
 
 
 
