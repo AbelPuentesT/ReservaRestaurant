@@ -12,8 +12,6 @@ namespace ReservaRestaurante.App.Persistencia.Context
 
         public DbSet<Mesero>? Meseros { get; set; }
 
-        //public DbSet<Persona> Personas { get; set; }
-
         public DbSet<Reserva>? Reservas { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder opciones)
@@ -25,7 +23,6 @@ namespace ReservaRestaurante.App.Persistencia.Context
             }
         }
 
-        //permite volver atributos como unicos
         protected override void OnModelCreating(ModelBuilder builder)
         {
             builder.Entity<Cliente>().HasIndex(u => u.Cedula).IsUnique();
